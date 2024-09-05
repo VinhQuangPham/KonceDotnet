@@ -1,0 +1,90 @@
+[
+    {
+        "question": "I worry about small details.",
+        "answers": ["True", "False"]
+    },
+    {
+        "question": "I have insomnia.",
+        "answers": ["True", "False"]
+    },
+    {
+        "question": "In school, I was anxious about my grades.",
+        "answers": ["True", "False"]
+    },
+    {
+        "question": "My thoughts keep me up at night.",
+        "answers": ["True", "False"]
+    },
+    {
+        "question": "I'm a perfectionist.",
+        "answers": ["True", "False"]
+    },
+    {
+        "question": "What would be your ideal wake-up time if you didn’t have any obligations?",
+        "answers": ["Before 6:30 a.m", "Between 6:30 - 9:00 a.m", "After 9:30 a.m"]
+    },
+    {
+        "question": "Do you use an alarm clock to wake up?",
+        "answers": ["No, you wake up on your own at just the right time.", "Yes, with zero or one snoozes."]
+    },
+    {
+        "question": "How do you deal with jet lag?",
+        "answers": ["You struggle with it and take a long time to adjust.", "You adjust within 48 hours.", "You adjust straight away with no issue."]
+    },
+    {
+        "question": "What’s your favorite time of day for a meal?",
+        "answers": ["Breakfast (before 11 a.m)", "Lunch (between 11 and 2)", "Dinner (between 5-10 p.m)"]
+    },
+    {
+        "question": "If you were to flash back to high school and take a big test again, when would you prefer the test start for maximum focus and concentration?",
+        "answers": ["Early morning.", "Early afternoon.", "Mid afternoon"]
+    },
+    {
+        "question": "If you could choose any time of day to do an intense workout, when would you do it?",
+        "answers": ["Before 9 a.m.", "Between 9 a.m. and 4 p.m.", "After 4 p.m."]
+    },
+    {
+        "question": "When are you most alert?",
+        "answers": ["The hour or two just after waking up.", "Two to four hours after waking up.", "Four to six hours after waking up."]
+    },
+    {
+        "question": "If you could choose your own five-hour workday (yes, five!), which block of consecutive hours would you choose?",
+        "answers": ["4-9 a.m.", "9 a.m. to 2 p.m.", "4-9 p.m."]
+    },
+    {
+        "question": "Do you consider yourself",
+        "answers": ["Left-brained: Strategic and analytical.", "Both left- and right-brained.", "Right-brained: Creative and insightful."]
+    },
+    {
+        "question": "Do you nap?",
+        "answers": ["Never.", "Sometimes.", "If you took a nap, you'd be up all night."]
+    },
+    {
+        "question": "If you had to do two hours of hard physical labor, like moving furniture or chopping wood, when would you choose to do it?",
+        "answers": ["8-10 a.m.", "11 a.m. to 1 p.m.", "6-8 p.m."]
+    },
+    {
+        "question": "Regarding your overall health, which statement sounds most like you?",
+        "answers": ["I make healthy choices almost all of the time.", "Medium: I sometimes take risks.", "High: I often take risks."]
+    },
+    {
+        "question": "Do you consider yourself",
+        "answers": ["Future-oriented with big plans and clear goals.", "Informed by the past, hopeful about the future, and aspiring to let go and live in the moment.", "Present-oriented. It’s all about what feels good now."]
+    },
+    {
+        "question": "What kind of student were you?",
+        "answers": ["A+.", "Average.", "School was nothing."]
+    },
+    {
+        "question": "When you first wake up in the morning, are you...",
+        "answers": ["Bright-eye.", "Dazed but ready to face the day.", "Groggy and difficult to rally."]
+    },
+    {
+        "question": "How would you describe your appetite within a half hour of waking up?",
+        "answers": ["Very hungry.", "Hungry.", "Not at all hungry."]
+    },
+    {
+        "question": "How often do you struggle to fall asleep or stay asleep?",
+        "answers": ["Rarely.", "Occasionally.", "Chronically."]
+    }
+]
